@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## Screenshot
 
-https://github.com/Mostafijur-R-M/login-screen-neuphormic/lib/master/Screenshot_1598944031.png
+https://github.com/Mostafijur-R-M/login-screen-neuphormic/blob/master/Screenshot_1598944031.png
 
 
 A few resources to get you started if this is your first Flutter project:
