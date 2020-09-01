@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## Screenshot
 
-https://github.com/TheAlphamerc/flutter_wallet_app/blob/master/screenshots/screenshot_2.jpg
+https://github.com/Mostafijur-R-M/login-screen-neuphormic/master/Screenshot_1598944031.png
 
 
 A few resources to get you started if this is your first Flutter project:
